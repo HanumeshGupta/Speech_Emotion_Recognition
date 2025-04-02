@@ -1,12 +1,43 @@
-# Speech_Emotion_Recognition
-Speech emotion recognition is an act of predicting human's emotion through their speech along with the accuracy of prediction. It creates a better human computer interaction.<br>
-Here the model is predictiong with 97.08% of accuracy. This model Maily focus on CNN model and Librosa library. <br>
-## Librosa -
-      This is a library which is use for sound and video analysis.
-## CNN-
-      This is the mdoel of Deep learning. It is mainly use for training model for Audio, videos, etc files. 
+# SPEECH_EMOTION_RECOGNITION
+Unlock the power of emotional intelligence in technology with **Speech Emotion Recognition**, a cutting-edge project designed to detect and analyze emotions in speech.
 
-And for data.. I have use <a href="https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio">Ravdess </a> , <a href="https://www.kaggle.com/datasets/ejlok1/surrey-audiovisual-expressed-emotion-savee"> Savee</a>, <a href="https://www.kaggle.com/datasets/ejlok1/cremad?resource=download">Crema-D</a> and <a href="https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess">Tess</a>
+## Table of Contents
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Testing](#testing)
 
-These Dataset are use for analysis.
-And for interface I use streamlit library.
+## Overview
+This project harnesses advanced techniques in speech processing to interpret emotional cues in spoken language.
+
+- **Streamlit Application:** Provides a solution to analyze the emotional tone of the voice model.
+- **Emotion Recognition Model:** Language model trained on various emotional data for effective identification of emotions.
+- **Audio Feature Extraction:** Processes audio data to extract features to provide emotion classification.
+- **User Interaction Interface:** Simplifies audio file upload and display results, boosting user engagement.
+
+## Getting Started
+
+### Prerequisites
+Ensure you have the following dependencies installed:
+- Programming language: **Python** 
+
+### Installation
+1. Clone the repository from the source and install dependencies:
+   ```bash
+   git clone https://github.com/yourusername/Speech_Emotion_Recognition.git
+2. Navigate to the project directory:
+   ```bash
+   cd Speech_Emotion_Recognition
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   
+### Usage
+To use the project, run:
+   ```bash
+   python app.py
+
+
+### Notes:
+- Ensure to replace `"yourusername"` and script names with the actual ones specific to your project.
+- Adjust any commands or dependencies according to your actual project requirements.
