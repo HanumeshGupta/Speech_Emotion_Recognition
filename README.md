@@ -2,12 +2,6 @@
 
 Unlock the power of **emotional intelligence** in technology with **Speech Emotion Recognition**, a cutting-edge project designed to **detect and analyze emotions in speech.** 🎭🔊
 
-```markdown
-![Speech Emotion Recognition](https://via.placeholder.com/1000x400.png?text=Speech+Emotion+Recognition)
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-success?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%E2%9C%94-yellow?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-%E2%9C%94-red?style=flat-square)
-```
-
 ---
 
 ## 📌 Table of Contents
@@ -123,7 +117,4 @@ This project is **open-source** and available under the **MIT License**.
 
 🚀 **Let’s build emotionally intelligent AI together!** 🎭💡
 
-```markdown
-![AI Emotion Detection](https://via.placeholder.com/800x300.png?text=Emotion+Detection+AI)
-```
 
