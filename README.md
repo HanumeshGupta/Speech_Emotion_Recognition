@@ -34,10 +34,8 @@ Ensure you have the following dependencies installed:
    
 ### Usage
 To use the project, run:
-   ```bash
-   python app.py
-
+```python app.py```
 
 ### Notes:
-- Ensure to replace `"yourusername"` and script names with the actual ones specific to your project.
+- Ensure to replace `"your_name"` and script names with the actual ones specific to your project.
 - Adjust any commands or dependencies according to your actual project requirements.
