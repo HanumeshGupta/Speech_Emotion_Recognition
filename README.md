@@ -45,7 +45,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Speech_Emotion_Recognition.git
+   git clone https://github.com/HanumeshGupta/Speech_Emotion_Recognition.git
    ```
 2. **Navigate to the project directory**
    ```bash
